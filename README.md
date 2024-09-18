@@ -1,14 +1,14 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Héctor+Garaboa!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola!;+Soy+Héctor+Garaboa!;" />
 </h1>
 
-<h3 align="center">A passionate computer engineering student from Spain</h3>
+<h3 align="center">Estudiando y formandome</h3>
 
 <br/>
 
 <div align="center">
   
-🌱 I’m currently doing an internship in web development at **[STGO](https://stgo.es/)**
+🌱 Actualmente estoy estudiando 2º de DAM en **(https://www.fernandowirtz.com)**
  
 💬 Ask me about **C, C++, Mock Servers ... or anything [here](https://github.com/pabloseijo/pabloseijo/issues)**
 
