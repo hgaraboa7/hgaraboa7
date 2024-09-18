@@ -15,8 +15,6 @@
  </div>
 
  <hr/>
- 
-
 
 
 <h2 align="center">📈 Estadísticas 📈</h2>
