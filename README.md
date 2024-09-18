@@ -10,7 +10,7 @@
   
 🌱 Actualmente estoy estudiando 2º de DAM en **(https://www.fernandowirtz.com)**
  
-💬 Estoy aprendiendo Python, Kotlin y Java
+💬 Estoy aprendiendo sobre Python, Kotlin y mejorando en Java
 
  </div>
 
