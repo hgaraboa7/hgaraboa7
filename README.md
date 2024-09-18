@@ -27,10 +27,10 @@
 <h2 align="center">⚡ Estadísticas ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Hgaraboa7o&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Hgaraboa7&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Hgaraboa7&count_private=true&show_icons=true&theme=react&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloseijo&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hgaraboa7&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
 </div>
 
 <br/><br/>
