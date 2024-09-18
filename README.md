@@ -19,7 +19,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,html,css,vscode,eclipse,linux,bash,git,github,kotlin" /><br>
+    <img src="https://skillicons.dev/icons?i=python,java,html,css,vscode,eclipse,androidstudio,linux,bash,git,github,kotlin" /><br>
 <br/>
 <hr/>
 <hr/>
