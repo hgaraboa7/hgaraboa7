@@ -14,21 +14,12 @@
 
  </div>
 
- <div align="center"> 
-
-  /*<a >
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>*/
-  
-</div>
-
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,vscode,linux,bash,git,github" /><br>
-    <img src="https://skillicons.dev/icons?i=react,angular,md,obsidian,latex,clion,idea,pycharm,docker,apple,discord" />
+    <img src="https://skillicons.dev/icons?i=python,java,html,css,vscode,linux,bash,git,github,kotlin" /><br>
 <br/>
 <hr/>
 
