@@ -19,7 +19,7 @@
 
 
 
-<h2 align="center">⚡ Estadísticas ⚡</h2>
+<h2 align="center">📈 Estadísticas 📈</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Hgaraboa7&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
@@ -29,7 +29,7 @@
 </div>
 
 <br/>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">💻 Languages-Frameworks-Tools 💻</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,java,html,css,vscode,eclipse,androidstudio,linux,bash,git,github,kotlin" /><br>
