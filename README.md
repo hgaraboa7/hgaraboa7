@@ -10,17 +10,15 @@
   
 🌱 Actualmente estoy estudiando 2º de DAM en **(https://www.fernandowirtz.com)**
  
-💬 Ask me about **C, C++, Mock Servers ... or anything [here](https://github.com/pabloseijo/pabloseijo/issues)**
-
-⚡ Fun fact **The longest break Oda took from One Piece was 4 weeks.**
+💬 Estoy aprendiendo Python, Kotlin y Java
 
  </div>
 
  <div align="center"> 
 
-  <a href="https://www.linkedin.com/in/pablo-seijo-7055141b0/" target="_blank">
+  /*<a >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+  </a>*/
   
 </div>
 
