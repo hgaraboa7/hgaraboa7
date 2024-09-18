@@ -16,13 +16,8 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,html,css,vscode,eclipse,androidstudio,linux,bash,git,github,kotlin" /><br>
-<br/>
-<hr/>
-<hr/>
+
+
 
 <h2 align="center">⚡ Estadísticas ⚡</h2>
 <br>
@@ -33,6 +28,11 @@
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hgaraboa7&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
 </div>
 
+<br/>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,java,html,css,vscode,eclipse,androidstudio,linux,bash,git,github,kotlin" /><br>
 <br/><br/>
 
 
